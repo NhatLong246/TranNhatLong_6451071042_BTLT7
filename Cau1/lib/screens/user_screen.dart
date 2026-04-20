@@ -23,7 +23,7 @@ class _UserScreenState extends State<UserScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Danh sách người dùng')),
+      appBar: AppBar(title: const Text('MSSV: 6451071042')),
       // Dùng Consumer để lắng nghe sự thay đổi từ UserController
       body: Consumer<UserController>(
         builder: (context, controller, child) {

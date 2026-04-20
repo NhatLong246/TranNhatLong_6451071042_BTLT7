@@ -1,0 +1,25 @@
+# Thư mục build của Flutter
+build/
+
+# Các file phụ thuộc của Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# File cấu hình của Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.jks
+
+# File cấu hình của VS Code
+.vscode/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+
+# Các file môi trường nhạy cảm 
+.env
